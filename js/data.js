@@ -15,51 +15,54 @@ const account = [
 
 const months = [
     {
-        Name: 'Sausis',
-        Nr: 1
+        nr: 1,
+        name: 'Sausis'
     },
     {
-        Name: 'Vasaris',
-        Nr: 2
+        nr: 2,
+        name: 'Vasaris'
     },
     {
-        Name: 'Kovas',
-        Nr: 3
+        nr: 3,
+        name: 'Kovas'
     },
     {
-        Name: 'Balandis',
-        Nr: 4
+        nr: 4,
+        name: 'Balandis'
     },
     {
-        Name: 'Geguzis',
-        Nr: 5
+        nr: 5,
+        name: 'Geguzis'
     },
     {
-        Name: 'Birzelis',
-        Nr: 6
+        nr: 6,
+        name: 'Birzelis'
     },
     {
-        Name: 'Liepa',
-        Nr: 7
+        nr: 7,
+        name: 'Liepa'
     },
     {
-        Name: 'Rugpjutis',
-        Nr: 8
+        nr: 8,
+        name: 'Rugpjutis'
     },
     {
-        Name: 'Rugsejis',
-        Nr: 9
+        nr: 9,
+        name: 'Rugsejis'
     },
     {
-        Name: 'Spalis',
-        Nr: 10
+        nr: 10,
+        name: 'Spalis'
     },
     {
-        Name: 'Lapkritis',
-        Nr: 11
+        nr: 11,
+        name: 'Lapkritis'
     },
     {
-        Name: 'Gruodis',
-        Nr: 12
+        nr: 12,
+        name: 'Gruodis'
     },
 ];
+
+export { account };
+export { months };
